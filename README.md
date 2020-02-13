@@ -21,4 +21,4 @@ SHA256: 68096d574aacf51cea46708d473d5c6b13d3b5039c8f3587d2325c9bdefdcbc1
 * IronPython 2.7.3 http://ironpython.codeplex.com/downloads/get/423690 [If you are using Scripting Engine]
 
 
-tags: xss, xss scanner, xss exploit, xenotix, dom xss scanner, xss attacks
+tags: xss, xss scanner, xss exploit, xenotix, dom xss scanner, xss attacks.
